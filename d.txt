@@ -1,0 +1,12 @@
+                                             INSTRUSCTIONS
+
+ 
+             *WELCOME TO THIS GAME OF YOUR CHILDHOOD NAMED STONE/PAPER/SCISSOR 
+             *HERE 1 DENOTES STONE
+                   2 DENOTES PAPER
+                   3 DENOTES SCISSOR
+            RULES:
+            > scissor wins against paper but looses against stone
+            > stone wins against  scissor but looses against paper
+            >paper wins against stone b ut looses against scissor
+            >                  so guys EnJoY 
